@@ -1,0 +1,2 @@
+# electrostock
+magazzino
